@@ -1,2 +1,2 @@
-print("Hello weird jacques")
+print("yes weird jacques weird some times")
 
